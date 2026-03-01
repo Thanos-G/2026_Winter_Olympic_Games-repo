@@ -1,2 +1,3 @@
-# Python
-simple pin genarator for credit or debit cards
+# 2026 Winter Olympic Games - Daily Challenges Python
+
+FreeCodeCamp Olympic Winter Games challenges
