@@ -24,12 +24,12 @@ To determine the rating:
 
 Calculate the steepness of the hill by taking the drop divided by the distance.
 Then, calculate the adjusted steepness based on the hill type:
-"Downhill" multiply steepness by 1.2
-"Slalom": multiply steepness by 0.9
+"Downhill" multiply steepness by 1.2,
+"Slalom": multiply steepness by 0.9,
 "Giant Slalom": multiply steepness by 1.0
-Return:
 
-"Green" if the adjusted steepness is less than or equal to 0.1
-"Blue" if the adjusted steepness is greater than 0.1 and less than or equal to 0.25
+Return:
+"Green" if the adjusted steepness is less than or equal to 0.1,
+"Blue" if the adjusted steepness is greater than 0.1 and less than or equal to 0.25,
 "Black" if the adjusted steepness is greater than 0.25
 #
